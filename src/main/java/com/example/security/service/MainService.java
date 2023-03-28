@@ -2,7 +2,6 @@ package com.example.security.service;
 
 import com.example.security.config.dto.UserDto;
 import com.example.security.converter.UserToDto;
-import com.example.security.domain.UserEntity;
 import com.example.security.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
